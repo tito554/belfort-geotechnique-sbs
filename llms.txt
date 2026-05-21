@@ -1,0 +1,52 @@
+# Geotechnique — Belfort
+
+> Geotechnical engineering services in Belfort, France.
+
+## Services
+- [Amelioration Sols](https://belfort.geotechnique.sbs/amelioration-sols/)
+- [Ancrages](https://belfort.geotechnique.sbs/ancrages/)
+- [Cbr Routier](https://belfort.geotechnique.sbs/cbr-routier/)
+- [Chaussee Rigide](https://belfort.geotechnique.sbs/chaussee-rigide/)
+- [Chaussee Souple](https://belfort.geotechnique.sbs/chaussee-souple/)
+- [Colonnes Ballastees](https://belfort.geotechnique.sbs/colonnes-ballastees/)
+- [Confidentialite](https://belfort.geotechnique.sbs/confidentialite/)
+- [Densite Cone Sable](https://belfort.geotechnique.sbs/densite-cone-sable/)
+- [Essai Cpt](https://belfort.geotechnique.sbs/essai-cpt/)
+- [Essais Proctor](https://belfort.geotechnique.sbs/essais-proctor/)
+- [Excavations](https://belfort.geotechnique.sbs/excavations/)
+- [Excavations Profondes](https://belfort.geotechnique.sbs/excavations-profondes/)
+- [Fondations](https://belfort.geotechnique.sbs/fondations/)
+- [Geotechnique Routiere](https://belfort.geotechnique.sbs/geotechnique-routiere/)
+- [Granulometrie](https://belfort.geotechnique.sbs/granulometrie/)
+- [Injections](https://belfort.geotechnique.sbs/injections/)
+- [Investigation](https://belfort.geotechnique.sbs/investigation/)
+- [Isolation Sismique](https://belfort.geotechnique.sbs/isolation-sismique/)
+- [Labo In Situ](https://belfort.geotechnique.sbs/labo-in-situ/)
+- [Laboratoire](https://belfort.geotechnique.sbs/laboratoire/)
+- [Limites Atterberg](https://belfort.geotechnique.sbs/limites-atterberg/)
+- [Liquefaction](https://belfort.geotechnique.sbs/liquefaction/)
+- [Masw](https://belfort.geotechnique.sbs/masw/)
+- [Microzonage Sismique](https://belfort.geotechnique.sbs/microzonage-sismique/)
+- [Murs Soutenement](https://belfort.geotechnique.sbs/murs-soutenement/)
+- [Permeabilite In Situ](https://belfort.geotechnique.sbs/permeabilite-in-situ/)
+- [Pieux](https://belfort.geotechnique.sbs/pieux/)
+- [Puits Inspection](https://belfort.geotechnique.sbs/puits-inspection/)
+- [Radiers](https://belfort.geotechnique.sbs/radiers/)
+- [Refraction Sismique](https://belfort.geotechnique.sbs/refraction-sismique/)
+- [Resistivite](https://belfort.geotechnique.sbs/resistivite/)
+- [Semelles](https://belfort.geotechnique.sbs/semelles/)
+- [Sismique](https://belfort.geotechnique.sbs/sismique/)
+- [Sondages Spt](https://belfort.geotechnique.sbs/sondages-spt/)
+- [Stabilite Talus](https://belfort.geotechnique.sbs/stabilite-talus/)
+- [Surveillance Excavations](https://belfort.geotechnique.sbs/surveillance-excavations/)
+- [Talus](https://belfort.geotechnique.sbs/talus/)
+- [Triaxial](https://belfort.geotechnique.sbs/triaxial/)
+- [Tunnels Sol Mou](https://belfort.geotechnique.sbs/tunnels-sol-mou/)
+- [Vibrocompactage](https://belfort.geotechnique.sbs/vibrocompactage/)
+
+## Contact
+- Website: https://belfort.geotechnique.sbs/
+
+## About
+This site provides geotechnical engineering services in Belfort, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
